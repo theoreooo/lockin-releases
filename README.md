@@ -14,7 +14,7 @@
 
 | Версия | SHA-256 |
 |---|---|
-| 0.2.33 (build 38) | `46328341759fed9dafc92e38c2e7af7eb64b6df85398986f061c3a4bfddf0b03` |
+| 0.3.2 (build 42) | `8ee57ea465d2381fa9d69de818e3d2ea5521edcabc7111c784d3455208ca8c40` |
 
 Проверка файла в PowerShell: `Get-FileHash lockin.apk`.
 
