@@ -14,6 +14,7 @@
 
 | Версия | SHA-256 |
 |---|---|
+| 0.3.17 (build 57) | `78eabd86f5c0fff7dc4c6c1efa2c7be776f798950be0f8ccc26698184a7794f6` |
 | 0.3.16 (build 56) | `e1dc42942df4991b9c21178e58d467026273b042052b1c1a24afa023b8847dd3` |
 | 0.3.14 (build 54) | `f3b33d7f744d57adf135299c2eefcf79bedd7fcb6c7303bfe28a00aa3655f76f` |
 | 0.3.10 (build 50) | `9d5fc11064bdf99bd73045980686aa861b2214daff198a6dc05863ab2ce4e3df` |
